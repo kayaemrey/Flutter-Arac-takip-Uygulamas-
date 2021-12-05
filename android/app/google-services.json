@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "549931534284",
+    "project_id": "aractakip-f7d61",
+    "storage_bucket": "aractakip-f7d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549931534284:android:c8a0c364b0e2698193ff69",
+        "android_client_info": {
+          "package_name": "com.aractakip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549931534284-41m33h5mt8o3q5904c60j9h0d5b2fdv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aractakip",
+            "certificate_hash": "e5028e0f7789f935d5d52147117683a7cae2379f"
+          }
+        },
+        {
+          "client_id": "549931534284-p5710tlr4j5f501e7l65vs9iofe98m4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf7D5-E8R4M2T2n9lXuKF1xOXQr8TWZhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549931534284-p5710tlr4j5f501e7l65vs9iofe98m4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
